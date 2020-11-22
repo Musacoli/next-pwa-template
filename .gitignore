@@ -10,3 +10,5 @@ node_modules
 
 # macOS meta stuffs
 .DS_Store
+
+.idea
